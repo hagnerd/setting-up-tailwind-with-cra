@@ -8,7 +8,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "build:styles": "postcss tailwind.css -o src/styles.css",
+    "build:styles": "postcss src/tailwind.css -o src/styles.css",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
